@@ -1,4 +1,4 @@
-# Exercises by Jose Javier Acosta Santana
+# Exercises by Jose Acosta
 In this repository I automated every task, so the only thing needed to see the results of the exercises is execute the .py files.
 ## SQL exercises
 In the SQL exercise I replicate the SQL Database using sqlite3 which is a module for python. When the file sql.py is executed the databases deploy automatically in a .db file, after that the querys which solves the exercises are performed and the result are retrieved in the console.
